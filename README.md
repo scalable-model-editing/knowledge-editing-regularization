@@ -49,3 +49,19 @@ python experiments/evaluate_unified_editing.py \
 --number_of_few_shots=4,4,4,4,4,4 \
 --number_of_tests=100
 ```
+
+## How to Cite
+
+If you find our work useful, please cite it using the followings:
+
+```
+@misc{gupta2025lifelongknowledgeeditingrequires,
+      title={Lifelong Knowledge Editing requires Better Regularization},
+      author={Akshat Gupta and Phudish Prateepamornkul and Maochuan Lu and Ahmed Alaa and Thomas Hartvigsen and Gopala Anumanchipalli},
+      year={2025},
+      eprint={2502.01636},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2502.01636},
+}
+```
